@@ -1,0 +1,16 @@
+
+.center {
+	display: flex;
+	justify-content: center;
+}
+body {
+	background: grey;
+	text-align: center
+}
+p {
+	color: paleturquoise
+}
+			
+			
+			
+	
